@@ -14,6 +14,8 @@
 - 📤 Supports any file type Telegram allows
 - 🚫 No external dependencies beyond Go
 
+> Pre reqirement Go version `go1.24.1`
+
 **Installation**
 
 ```bash
