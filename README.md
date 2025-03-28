@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVmMXJmNWtzM3VyZ2draWd0NGtrenlhYndjdGVidGRudHF5N25kZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rlChzWTthWgyA/giphy.gif"/></p>
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVmMXJmNWtzM3VyZ2draWd0NGtrenlhYndjdGVidGRudHF5N25kZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rlChzWTthWgyA/giphy.gif" width="200" height="200"/></p>
 
 <h3 align="center">Turtle</h3>
 
