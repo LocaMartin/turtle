@@ -78,7 +78,7 @@ For a description of the Bot API, see this page: https://core.telegram.org/bots/
 | `-h` | Help message | `-h` |
 | `-v` | Version | `-v` |
 
-> Click [here](EXPLAIN.md) to know how turtle tool works
+> Click [here](https://github.com/LocaMartin/turtle.wiki.git) to know how turtle tool works
 ## Contributing
 1. Fork the repository
 2. Create feature branch (`git checkout -b feature`)
