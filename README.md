@@ -4,17 +4,16 @@
 
 > turtle is a commandline file sharing tool used to share files from terminal to telegram bot , Automates config management and simplifies file sharing with minimal flags.
 
+![Go Version](https://img.shields.io/badge/Go-1.24.1-blue?logo=go&logoColor=white)
 
 **Features:**
 
-- 🔑 **One-time setup** for bot token and chat ID
-- 📁 **Simple file sharing** with single flag
-- ⚙️ **Auto-saves config** to `~/.turtle_config.json`
-- 🧹 **Clean config removal**
-- 📤 Supports any file type Telegram allows
-- 🚫 No external dependencies beyond Go
-
-> Pre reqirement Go version `go1.24.1`
+- **One-time setup** for bot token and chat ID
+- **Simple file sharing** with single flag
+- **Auto-saves config** to `~/.turtle_config.json`
+- **Clean config removal**
+- Supports any file type Telegram allows
+- No external dependencies beyond Go
 
 **Installation**
 
