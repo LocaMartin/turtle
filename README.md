@@ -2,7 +2,7 @@
 
 <h3 align="center">Turtle</h3>
 
-> turtle is a commandline file sharing tool used to share files from terminal to telegram bot , Automates config management and simplifies file sharing with minimal flags.
+Turtle is a commandline file sharing tool used to share files from terminal to telegram bot , Automates config management and simplifies file sharing with minimal flags.
 
 ![Go Version](https://img.shields.io/badge/Go-1.24.1-blue?logo=go&logoColor=white)
 
